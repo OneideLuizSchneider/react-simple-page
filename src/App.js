@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <NavBar titulo="Oneide's Home Page" cor="blue" />
+        <NavBar titulo="Simple Home Page" cor="blue" />
         <Router>
           <Routes />
         </Router>
